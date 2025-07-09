@@ -7,13 +7,13 @@
 ### 🚀 Data Engineer | Cloud Architecture | Death Metal Analytics Enthusiast
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/ssamuelsilva/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:samuelviana2626@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://seu-portfolio.com">
+  <a href="https://medium.com/@samuelviana2626">
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
