@@ -1,10 +1,6 @@
-<div align="center">
-  <img height="150" src="samuel-logo.png"  />
-</div>
-
 # Samuel Viana
 
-### Data Engineer | Backend Developer | Cloud Architecture Specialist
+### Data Engineer | Backend Developer 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ssamuelsilva/">
